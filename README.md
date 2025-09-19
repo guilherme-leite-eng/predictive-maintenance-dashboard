@@ -77,7 +77,6 @@ predictive-maintenance-dashboard/
 ## 🔬 Training & Evaluation  
 
 To retrain the model:  
-```bash
 # Run training
 python src/train.py
 
