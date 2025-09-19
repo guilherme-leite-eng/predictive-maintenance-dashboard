@@ -77,10 +77,10 @@ predictive-maintenance-dashboard/
 ## 🔬 Training & Evaluation  
 
 To retrain the model:  
-# Run training
+### Run training
 python src/train.py
 
-# Model artifact saved at: artifacts/pm_pipeline.joblib
+### Model artifact saved at: artifacts/pm_pipeline.joblib
 The script prints out a classification report (Precision, Recall, F1) and updates the trained model in artifacts/
 ---
 ## 📊 Business Value
