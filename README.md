@@ -83,7 +83,7 @@ python src/train.py
 
 # Model artifact saved at: artifacts/pm_pipeline.joblib
 The script prints out a classification report (Precision, Recall, F1) and updates the trained model in artifacts/
-
+---
 ## 📊 Business Value
 
 - **Reduce downtime** → early detection prevents catastrophic failures.
